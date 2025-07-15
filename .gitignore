@@ -1,0 +1,15 @@
+# Xcode
+*.xcworkspace
+DerivedData/
+build/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# SwiftPM
+.build/
+
+# SwiftUI Previews
+*.preview-thumbnails
+
+# macOS system files
+*.DS_Store
