@@ -20,6 +20,6 @@ This project follows MVVM architecture and demonstrates data persistence with Sw
 - iOS 17+
 
 ## 📸 Screenshots
-Screenshots will be updated soo. 
+Screenshots will be updated soon. 
 ## 🔗 License
 [MIT](LICENSE)
